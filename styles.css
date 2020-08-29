@@ -1,0 +1,59 @@
+body {
+    margin: 25px 15px;
+    font-family: "Shadows Into Light";
+    letter-spacing: 3px;
+    background-image: linear-gradient(navy, blue);
+    color: hotpink;
+    font-size: 1.5rem;
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+#intro {
+    width: 40%;
+    height: 50px;
+    border: 2px greenyellow solid;
+    text-align: center;
+    padding: 15px;
+    margin: 15px 30%;
+}
+#para1 {
+    width: 60%;
+    height: 50px;
+    border: 2px greenyellow solid;
+    text-align: center;
+    padding: 15px;
+    margin: 15px 20%;
+}
+#explain {
+    width: 80%;
+    height: auto;
+    border: 2px greenyellow solid;
+    text-align: center;
+    padding: 15px;
+    margin: 15px 10%;
+}
+a {
+    color: hotpink;
+    text-align: left;
+}
+#pic1, #pic2, #pic4, #pic6 {
+    width: 30%;
+    height: auto;
+    margin: 15px 35%;
+    border: 1px hotpink solid;
+}
+#pic3, #pic5, #pic7 {
+    width: 70%;
+    height: auto;
+    margin: 15px 15%;
+    border: 1px hotpink solid;
+}
+iframe {
+    border: 1px hotpink solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
